@@ -23,12 +23,6 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "utilizando_o_terminal.AboutMe",
-            "args": [
-                "GABRIEL",
-                "CASTRO",
-                "21",
-                "1.80"
-            ],
             "projectName": "dio-trilha-java-basico_a083cf4f"
         }
     ]
