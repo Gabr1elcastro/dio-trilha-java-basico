@@ -4,7 +4,41 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "controle_de_fluxo.CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "condicionais_compostas.ResultadoEscolar",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "condicionais_simples.CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "ControleFluxo",
+            "request": "launch",
+            "mainClass": "condicionais_simples.ControleFluxo",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
         {
             "type": "java",
             "name": "Current File",
