@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "estrutura_de_repeticoes.ExemploFor",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
             "name": "PlanoOperadora",
             "request": "launch",
             "mainClass": "controle_de_fluxo.PlanoOperadora",
