@@ -6,7 +6,7 @@ public class SistemaMedida {
 
         switch (sigla) {
             case "P":{
-            System.out.println("PEQUENO");
+                System.out.println("PEQUENO");
             break;
             }
             case "M":{
