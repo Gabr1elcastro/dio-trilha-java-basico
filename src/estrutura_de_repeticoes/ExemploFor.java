@@ -2,9 +2,11 @@ package estrutura_de_repeticoes;
 
 public class ExemploFor {
     public static void main(String[] args) {
-        for (int carneirinhos =1; carneirinhos <=20; carneirinhos ++ ){
-            System.out.println("Contando carneirinhos " + carneirinhos);
+        for (int n =1 ; n <=20; n ++ ){
+            if(n %2 ==0){
+                System.out.println(n);
+            }
         }
-        System.out.println("Joaozinho dormiu");
+        System.out.println("como diria mnh ex, terminamos!");
     }
 }
