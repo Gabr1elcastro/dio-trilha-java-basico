@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "excecoes.AboutMe",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "excecoes.FormatadorCepExemplo",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "FormatdorCepExemplo",
+            "request": "launch",
+            "mainClass": "excecoes.FormatdorCepExemplo",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "excecoes.ExemploExcecao",
+            "projectName": "dio-trilha-java-basico_a083cf4f"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "estrutura_de_repeticoes.ExemploDoWhile",
